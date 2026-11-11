@@ -19,7 +19,7 @@
 
 <!-- SALUDO ANIMADO ESTILO TERMINAL -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=%C2%A1Hola!+Soy+%5BTu+Nombre%5D+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=%C2%A1Hola!+Soy+%5BSantino+Martinez%5D+%F0%9F%91%8B" alt="Typing SVG" />
 </div>
 
 <!-- DESCRIPCIÓN -->
