@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,100:15803d&height=180&section=header&text=Tu%20Nombre&fontSize=45&fontColor=ffffff&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,100:15803d&height=180&section=header&text=Santino%20Martinez&fontSize=45&fontColor=ffffff&fontAlignY=35" width="100%" />
 </div>
 
 <!-- BOTONES DE CONTACTO -->
