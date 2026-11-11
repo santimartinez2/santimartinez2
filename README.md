@@ -55,6 +55,6 @@
 </div>
 <div align="center">
   <h3>📊 Estadísticas</h3>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=santimartinez2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santimartinez2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
