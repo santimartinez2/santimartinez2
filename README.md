@@ -24,7 +24,7 @@
 
 <!-- DESCRIPCIÓN -->
 <p align="center">
-  Soy desarrollador Full Stack apasionado por el desarrollo web y el diseño de bases de datos. Disfruto crear proyectos escalables que me permitan seguir aprendiendo y mejorando mis habilidades. En este perfil encontrarás proyectos realizados durante mi formación y otros desarrollados de manera personal.
+  Soy estudiante de desarrollo de software, apasionado por el desarrollo web y el diseño de bases de datos. Disfruto crear proyectos prácticos que me permitan aplicar lo que aprendo y seguir mejorando mis habilidades día a día. En este perfil encontrarás trabajos realizados durante mi formación y proyectos desarrollados de manera personal.
 </p>
 
 <br>
