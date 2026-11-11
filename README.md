@@ -5,10 +5,10 @@
 
 <!-- BOTONES DE CONTACTO -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/santino-martinez-/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tu-correo@gmail.com">
+  <a href="mailto:santinomartinez2004@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
